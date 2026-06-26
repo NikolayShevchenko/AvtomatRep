@@ -1,0 +1,10 @@
+Z_INP
+A_Prof
+B_node_aero
+C_Elem_aero
+D_aero_twist_aero
+F_twist_aero
+E_Normal_aero
+G_dopnode_aero
+H_aero_matrix
+I_solver
